@@ -1,0 +1,58 @@
+header {
+	padding-top: 4 px;
+	padding-left: 4 px;
+	padding-right: 4 px;
+	padding-bottom: 4 px;
+}
+
+article p {
+	color: #ED9A7E;
+}
+
+.purple {
+	color: #9760D1;
+}
+
+aside section p {
+font-family: Georgia;
+text-decoration: underline;
+color:red;
+line-height: 14 em;
+text-align: center;
+}
+
+ul {
+font-family: courier;
+font-style: bold;
+list-style-type: none;
+}
+
+header h1 {
+	font-size: 1.2em;
+}
+
+body {
+	background-color: #A89BA5;
+}
+
+body header {
+	background-color: #F296DD;
+	border: solid grey 5px;
+}
+
+body section header {
+	background-color: #EBCAE3;
+	border: none;
+}
+
+body section article {
+	background-color: #EBCAE3;
+}
+
+body aside {
+	background-color: #F296DD;
+}
+
+body aside section {
+	background-color: #F2E663;
+}
